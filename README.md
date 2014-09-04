@@ -1,6 +1,6 @@
 Socket
 ======
-#This project uses socket programming to connect processes listening on port.
+#This project uses socket programming to establish connection between processes listening on port.
 
 - It connects 5 computers using TCP and UDP protocols. 
 - The "casino" and "transit hub" serves as nodes in the network. 
