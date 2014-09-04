@@ -1,0 +1,4 @@
+To casino A: 99
+To casino B: 98
+To casino C: 97
+To casino D: 0
